@@ -1,64 +1,57 @@
-body{
-    background-color: black;
-    font-family: Arial, sans-serif;
-    font-size: 24px;
+body {
+  background-color: black;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
 }
-
-h2{
-    font-size: 50px;
-    color: whitesmoke;
-    text-align: center;
-    margin: 0px;
+h2 {
+  font-size: 50px;
+  color: whitesmoke;
+  text-align: center;
+  margin: 0px;
 }
-
-header{
-    text-align: center;
+header {
+  text-align: center;
 }
-a{
-    filter: brightness(150%);
+a {
+  filter: brightness(150%);
 }
-ul{
-    text-align: left;
-    display: inline-block;    
-    color: whitesmoke;
-    font-size: 16px;
-
+ul {
+  text-align: left;
+  display: inline-block;
+  color: whitesmoke;
+  font-size: 16px;
 }
-
-h3{
-    font-size: 36px;
-    margin: 10px;
+h3 {
+  font-size: 36px;
+  margin: 10px;
 }
-
-hr{
-    border:1px solid orange;
+hr {
+  border: 1px solid orange;
+  margin: 8px;
 }
-
-div{
-    background-color: rgb(244, 228, 212);
-    border: 10px solid rgb(236, 2, 201);
-    padding: 0px 10px 0px 10px;
+div {
+  background-color: rgb(244, 228, 212);
+  border: 10px solid rgb(236, 2, 201);
+  padding: 0px 10px 0px 10px;
 }
-
-.BlueBorder{
-    border-color: aqua;
+.BlueBorder {
+  border-color: aqua;
 }
-.OrangeBackground{
-    border-color: orange;
+.OrangeBackground {
+  border-color: orange;
 }
-
-footer{
-    color: whitesmoke;
-    text-align: center;
-    font-size: 16px;
+footer {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 16px;
 }
-.Marquee{
-    color: whitesmoke;
-    text-align: center;
-    font-size: 12px;
+.Marquee {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 12px;
 }
-span{
-    font-size: 22px;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: 400;
+span {
+  font-size: 22px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 400;
 }
